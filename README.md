@@ -14,7 +14,8 @@ Data-driven Predictions -: Leveraging machine learning algorithms to analyze dat
 
 1. Health Integration
 
-Future systems could integrate sleep predictions with other health data (e.g., heart rate, blood pressure) to provide holistic health assessments, detecting correlations between sleep disorders and other diseases like cardiovascular disorders or diabetes.
+   Future systems could integrate sleep predictions with other health data (e.g., heart rate, blood pressure) to provide holistic health assessments, detecting correlations between sleep disorders and other 
+   diseases like cardiovascular disorders or diabetes.
 
 
 2. Integration of the Data in Wearable Devices - Integrating data and other health-related information from wearable devices (fitness trackers, smartwatches, etc.) to improve prediction accuracy and offer ongoing, real-time insights into a person's health metrics and sleep patterns.
