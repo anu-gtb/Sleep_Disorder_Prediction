@@ -8,8 +8,6 @@ Sleep disorders have an increasing impact on mental and physical health and are 
 
 Data-driven Predictions -: Leveraging machine learning algorithms to analyze datasets that include lifestyle metrics (such as activity levels, diet, screen time, and stress) and sleep data (like sleep duration, cycles, and disturbances).
 
-# Work-flow
-
 # Future Scope
 
 1. Health Integration -: Future systems could integrate sleep predictions with other health data (e.g., heart rate, blood pressure) to provide holistic health assessments, detecting correlations between sleep 
